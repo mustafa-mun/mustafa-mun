@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mustafa, learning, growing, and coding my way to be a successful backend developer 🚀</div>  
+### <div align="center">Welcome to my GitHub page! I'm Mustafa, a dedicated learner and aspiring backend developer. I'm always looking for opportunities to grow my skills and knowledge in the tech industry. My repository reflects my learning journey and showcases my progress as I continue to code my way to success. Join me on this exciting path of constant improvement and development! 🚀</div>  
   
 
 - 🌱 I’m currently learning Express and mongoDB  
