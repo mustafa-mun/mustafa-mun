@@ -1,7 +1,7 @@
 ### <div align="center">Welcome to my GitHub page! I'm Mustafa, a dedicated learner and aspiring backend developer. 🚀</div>  
   
 
-- 🌱 I’m currently learning Express and mongoDB  
+- 🌱 I’m currently learning Python and GO
   
 
 - ⚡ Fun fact: I am also a powerlifter  
