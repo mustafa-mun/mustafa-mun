@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Django and GO<br>⚡ Fun fact: I'm also a powerlifter
+🌱 I’m currently learning Django and GO<br>⚡ Fun fact: I know how to exit from Vim
 
 
 # 💻 Tech Stack:
